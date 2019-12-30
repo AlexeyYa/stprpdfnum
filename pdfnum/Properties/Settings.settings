@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="pdfnum.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Укажите путь для новых файлов</Value>
+    </Setting>
+    <Setting Name="search" Type="System.String" Scope="User">
+      <Value Profile="(Default)">03_</Value>
+    </Setting>
+    <Setting Name="offsetH" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">12.5</Value>
+    </Setting>
+    <Setting Name="offsetV" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10.6</Value>
+    </Setting>
+    <Setting Name="firstP" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="numSt" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
